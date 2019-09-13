@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Hello">
+  <component name="RunManager" selected="Python.import">
     <configuration name="Hello" type="PythonConfigurationType" factoryName="Python">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
